@@ -1,0 +1,9 @@
+.wrapper {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.dropdowns {
+  padding: 10px;
+}
